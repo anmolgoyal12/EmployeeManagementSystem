@@ -1,2 +1,2 @@
 # EmployeeManagementSystem
-Employee management system using springboot an thymeleaf
+Employee Management System using Spring Boot,Spring Security,Thymeleaf and MySQL database
